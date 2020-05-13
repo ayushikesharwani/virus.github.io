@@ -2,8 +2,8 @@
 <html>
 <head>
 	<title></title>
-	<?php include 'link/links.php';?>
-	<?php include 'css/style.php';?>
+	<?php include 'https://virus.github.io/link/links.php';?>
+	<?php include 'https://virus.github.io/css/style.php';?>
 </head>
 <body onload="fetch()">
 
@@ -28,7 +28,7 @@
         <a class="nav-link" href="#preventid">prevention</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="coronaupdate.php">WorldCoronaLive</a>
+        <a class="nav-link" href="https://virus.github.io/coronaupdate.php">WorldCoronaLive</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#contantid">Contact</a>
